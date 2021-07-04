@@ -1,5 +1,5 @@
 <?php
-namespace cjwphp\Library;
+namespace cjwpf\Library;
 class Loader{
     public function index(){
         echo 'hello Loader';
